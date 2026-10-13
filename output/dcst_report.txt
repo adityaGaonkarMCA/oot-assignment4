@@ -1,0 +1,17 @@
+DCST / GBS report - illustrative sample data
+Students: 3
+Staff: 2
+Subjects: [Object-Oriented Concepts (sample), Operating Systems (sample), Programming and Problem Solving (sample)]
+Year 2024
+Academic | ISA | Internal assessment (sample entry)
+Academic | Midpoint Examination | Assessment (sample entry)
+Non-Academic | InfoFest | Sample entry; verify date and details
+Year 2025
+Academic | SEA | Semester-end assessment (sample entry)
+Academic | Study Tour / Industrial Visit | Sample entry; verify actual event
+Non-Academic | Plateaunia | Sample entry; verify date and details
+Year 2026
+Academic | Placement Drive / Internship | Sample entry; verify actual event
+Academic | Guest Lecture / Technical Workshop | Sample entry; verify actual event
+Non-Academic | Play-on | Sample entry; verify date and details
+Non-Academic | Sports / Cultural Programme | Additional illustrative entry
